@@ -1,0 +1,10 @@
+C:\Users\benn\Code\cSharp\Fibonacci\Fibonacci\bin\Debug\netcoreapp2.1\Fibonacci.deps.json
+C:\Users\benn\Code\cSharp\Fibonacci\Fibonacci\bin\Debug\netcoreapp2.1\Fibonacci.runtimeconfig.json
+C:\Users\benn\Code\cSharp\Fibonacci\Fibonacci\bin\Debug\netcoreapp2.1\Fibonacci.runtimeconfig.dev.json
+C:\Users\benn\Code\cSharp\Fibonacci\Fibonacci\bin\Debug\netcoreapp2.1\Fibonacci.dll
+C:\Users\benn\Code\cSharp\Fibonacci\Fibonacci\bin\Debug\netcoreapp2.1\Fibonacci.pdb
+C:\Users\benn\Code\cSharp\Fibonacci\Fibonacci\obj\Debug\netcoreapp2.1\Fibonacci.csprojAssemblyReference.cache
+C:\Users\benn\Code\cSharp\Fibonacci\Fibonacci\obj\Debug\netcoreapp2.1\Fibonacci.AssemblyInfoInputs.cache
+C:\Users\benn\Code\cSharp\Fibonacci\Fibonacci\obj\Debug\netcoreapp2.1\Fibonacci.AssemblyInfo.cs
+C:\Users\benn\Code\cSharp\Fibonacci\Fibonacci\obj\Debug\netcoreapp2.1\Fibonacci.dll
+C:\Users\benn\Code\cSharp\Fibonacci\Fibonacci\obj\Debug\netcoreapp2.1\Fibonacci.pdb
